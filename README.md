@@ -24,8 +24,11 @@ NewsMag is a modern news application built with React and Bootstrap. It fetches 
 ### Home Page
 ![Home Page](./screenshots/pg1.png)
 
+### Checking Full Article Page
+![Checking Full Article Page](./screenshots/pg4.png)
+
 ### News Detail Page
-![News Detail Page](./path-to-screenshot/news-detail-page.png)
+![News Detail Page](./screenshots/pg3.png)
 
 ## Installation
 
